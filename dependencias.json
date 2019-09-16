@@ -1,10 +1,10 @@
 {
+    "fk": "True",
+    "fun_aq": "fun_oficial",
     "dependencias": [
         {
             "version": "v1.0",
-            "key": "baseparche"
+            "key": "flfactppal"
         }
-    ],
-    "fk": "True",
-    "fun_aq": null
+    ]
 }
